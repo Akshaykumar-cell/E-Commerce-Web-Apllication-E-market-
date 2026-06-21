@@ -1,0 +1,11 @@
+2026-06-08 22:41:47.428 +05:30 [INF] Database has been successfully migrated and seeded.
+2026-06-08 22:44:14.683 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-06-08 23:29:32.596 +05:30 [ERR] Failed executing DbCommand (25ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2026-06-08 23:34:20.305 +05:30 [INF] Database has been successfully migrated and seeded.

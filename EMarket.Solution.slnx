@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EMarket.Api/EMarket.Api.csproj" />
+    <Project Path="src/EMarket.Application/EMarket.Application.csproj" />
+    <Project Path="src/EMarket.Domain/EMarket.Domain.csproj" />
+    <Project Path="src/EMarket.Infrastructure/EMarket.Infrastructure.csproj" />
+  </Folder>
+</Solution>

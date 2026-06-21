@@ -1,0 +1,2 @@
+2026-06-13 13:01:01.590 +05:30 [INF] Database has been successfully migrated and seeded.
+2026-06-13 13:02:32.778 +05:30 [WRN] Failed to determine the https port for redirect.
